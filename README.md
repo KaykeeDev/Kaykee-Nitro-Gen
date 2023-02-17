@@ -1,1 +1,1 @@
-# Kaykee-Nitro-Gen
+# Nitro générator
